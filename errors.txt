@@ -1,0 +1,5 @@
+
+dinodisp.py:init_open_hw_monitor: Could not open Open Hardware Monitor, is the file present/are you running as Admin?
+dinodisp.py:init_open_hw_monitor: Could not open Open Hardware Monitor, is the file present/are you running as Admin?
+dinodisp.py:init_open_hw_monitor: Could not open Open Hardware Monitor, is the file present/are you running as Admin?
+dinodisp.py:init_open_hw_monitor: Could not open Open Hardware Monitor, is the file present/are you running as Admin?
