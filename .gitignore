@@ -14,3 +14,5 @@ __pycache__/dinodisp.cpython-38.pyc
 *.pyc
 errors.txt
 rx_tx.py
+*.pyc
+__pycache__/dinodisp.cpython-38.pyc
