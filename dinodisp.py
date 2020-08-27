@@ -14,6 +14,9 @@ COMPORT = 0 # read from preferences.conf
 # 	- Remove / edit print statements once testing is completed to provide a better output to the end user
 # 	- Create readme.txt
 # 	- Once testing is completed, either package everything as an installer & .exe, or set the python process to hide/minimize once communication with the arduino is established
+# 	- Refactor preferences parsing into JSON file format (more efficient than REGEXP)
+#	- Add preferences parsing for time / date formats, update time string fetch to reflect this
+# 	- Add preference for minimizing/hiding/showing the commandline on launch
 
 # TODO: Remove once testing is completed __main__ is implemented
 def test():
