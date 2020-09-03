@@ -24,10 +24,13 @@ PIP requirements list
 ## TODO:
 * Finish detailing the README
 * Implement JSON data format in pereferences.conf
-** Implement logic changes in the Python script to account for JSON preferences.conf format
+  * Implement logic changes in the Python script to account for JSON preferences.conf format
 * Test on AMD hardware (currently developed using an Intel CPU/NVidia GPU, so for scalability and accuracy, it needs to be ran on an AMD only machine)
-** Current tags for amdcpu,amdgpu are unconfirmed and may (read: probably) won't work
+  * Current tags for amdcpu,amdgpu are unconfirmed and may (read: probably) won't work
 * Once testing is complete:
-** Remove debug/print statements, migrate to full errors.txt use (possibly implement a log.txt file as well)
-** Implement OHM subprocess exiting on script termination
-** Figure out how to best package the end product for pretty much anyone to be able to just download it and run it
+  * Remove debug/print statements, migrate to full errors.txt use (possibly implement a log.txt file as well)
+  * Implement OHM subprocess exiting on script termination
+  * Figure out how to best package the end product for pretty much anyone to be able to just download it and run it
+* Once hardware / software is finalized:
+  * Design 3D models to house the Arduino and Display
+  * Assemble and test everything
